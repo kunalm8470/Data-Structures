@@ -1,4 +1,4 @@
-# Data Structures Implementation using C#
+# Data Structures
 
 1. [Stack](./stack/stack/Models/StackImpl.cs)
 2. [Singly Linked List](./singly_linked_list/singly_linked_list/Models/SinglyLinkedList.cs)
